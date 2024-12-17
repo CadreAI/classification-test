@@ -18,7 +18,7 @@ Assume you have a CSV file with the following columns (already cleaned):
 1. **Load the Data:**
    - Load `mortgage_training_data.csv` into a Pandas DataFrame.
    
-2. **Exploratory Data Analysis (EDA) (Optional/Brief):**
+2. **Exploratory Data Analysis (EDA) (Option in person / Required if takehome):**
    - Quickly check for missing values or anomalies.
    - Print basic summary statistics.
    
