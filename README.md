@@ -1,4 +1,4 @@
-### Simple Predictive Modeling on Tabular Data
+### Predictive Modeling on Mortgage Loan Tabular Data
 
 **Overview:**  
 You have been given a tabular dataset representing processed mortgage application data. Each row corresponds to a mortgage application, along with various features such as annual income, loan amount, and a binary outcome indicating whether the loan was approved. Your task is to build a simple predictive model that predicts whether a loan will be approved or denied, given the features.
